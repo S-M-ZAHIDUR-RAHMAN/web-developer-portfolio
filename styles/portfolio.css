@@ -185,3 +185,11 @@ main section {
 .resume-container hr{
     margin: 30PX;
 }
+
+/* Footer style */
+footer{
+    margin-top: 100px;
+    display: flex;
+    background: #FFF8F3;
+    padding: 130px 200px;
+}
